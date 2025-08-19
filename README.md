@@ -14,3 +14,5 @@ O desafio propõe a criação de um clone da interface principal da HBO Max, com
 
 - HTML5
 - CSS3
+
+## Confira o projeto pelo link: https://hugaomaia.github.io/HBO-Max/index.html
